@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "discord.js": "^14.21.0",
-    "djs-components-helper": "^1.0.4"
+    "djs-components-helper": "^1.0.4",
+    "mongodb": "^6.18.0"
   }
 }
